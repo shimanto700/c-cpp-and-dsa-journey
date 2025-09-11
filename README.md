@@ -55,16 +55,16 @@ Advanced Topics: Bit Manipulation, Sliding Window, Backtracking
 Some of the best resources I’m following:
 
 C Programming:
-C programming and Data Structures by Neso Academy[https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM]
-C Programming Tutorial - freeCodeCamp
+
+-C programming and Data Structures by Neso Academy[https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM]
+
 
 C++ Programming:
-C++ Primer by Stanley B. Lippman
-C++ Tutorial - freeCodeCamp
+
+
 
 DSA:
-Introduction to Algorithms (CLRS)
-Data Structures and Algorithms - Abdul Bari (YouTube)
+
 
 GeeksforGeeks DSA Guide
 
