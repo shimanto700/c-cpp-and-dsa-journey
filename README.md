@@ -9,9 +9,13 @@ This repository documents my learning process, code implementations, problem-sol
 This repo contains:
 
 -Step-by-step implementations of C and C++ fundamentals.
+
 -Well-documented solutions for common and advanced DSA problems.
+
 -A curated roadmap for interview preparation (FAANG-level DSA).
+
 -Notes, explanations, and practice codes to solidify concepts.
+
 -Whether you’re a beginner starting from scratch or someone preparing for coding interviews, this repository can be your companion.
 
 🎯 Learning Goals
