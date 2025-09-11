@@ -55,7 +55,7 @@ Advanced Topics: Bit Manipulation, Sliding Window, Backtracking
 Some of the best resources I’m following:
 
 C Programming:
-Let Us C by Yashavant Kanetkar
+C programming and Data Structures by Neso Academy[https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM]
 C Programming Tutorial - freeCodeCamp
 
 C++ Programming:
