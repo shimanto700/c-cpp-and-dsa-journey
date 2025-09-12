@@ -4,8 +4,6 @@ This repository documents my learning process, code implementations, problem-sol
 
 
 
-
-
 This repo contains:
 
 -Step-by-step implementations of C and C++ fundamentals.
