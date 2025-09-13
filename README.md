@@ -17,6 +17,7 @@ This repo contains:
 -Whether you’re a beginner starting from scratch or someone preparing for coding interviews, this repository can be your companion.
 
 🎯 Learning Goals
+
 -Master C programming basics (memory management, pointers, arrays, strings).
 
 -Transition smoothly into C++ (OOP, STL, templates, advanced concepts).
@@ -35,6 +36,7 @@ Version Control: Git & GitHub
 
 
 Complete C Programming and DSA Learning Roadmap
+
 📚 Table of Contents
 
 Introduction
@@ -68,86 +70,132 @@ License
 Support & Community
 
 🎯 Introduction
+
 This roadmap is designed to take you from a complete beginner to an advanced level in C programming and Data Structures & Algorithms. The journey is structured in phases, with each building upon the previous one.
-Estimated Timeline: 6-8 months (dedicating 2-3 hours daily)
+
+Estimated Timeline: 3 months (dedicating 4-5 hours daily)
+
 🧠 Learning Methodology
+
 1. Active Learning Approach
 
-Read → Code → Practice → Teach
-Write code for every concept you learn
-Explain concepts in your own words
-Implement everything from scratch
+-Read → Code → Practice → Teach
+
+-Write code for every concept you learn
+
+-Explain concepts in your own words
+
+-Implement everything from scratch
 
 2. The 70-20-10 Rule
 
-70% hands-on coding and problem-solving
-20% reading theory and documentation
-10% watching tutorials/videos
+-70% hands-on coding and problem-solving
+
+-20% reading theory and documentation
+
+-10% watching tutorials/videos
 
 3. Spaced Repetition
 
-Review previous topics every 3 days
-Revisit difficult concepts weekly
-Create summary notes for quick revision
+-Review previous topics every 3 days
+
+-Revisit difficult concepts weekly
+
+-Create summary notes for quick revision
 
 4. Problem-Solving Framework
 
-Understand the problem completely
-Think of multiple approaches
-Choose the optimal solution
-Code step by step
-Test with multiple cases
-Optimize if possible
+-Understand the problem completely
+
+-Think of multiple approaches
+
+-Choose the optimal solution
+
+-Code step by step
+
+-Test with multiple cases
+
+-Optimize if possible
 
 
 📖 Phase 1: C Programming Fundamentals
-Duration: 3-4 weeks
+  
+
 Chapter 1: Getting Started (Week 1)
+
 Topics to Cover:
 
-History and features of C
-Setting up development environment (GCC, IDE)
-Structure of a C program
-Compilation process
-Hello World program
+-History and features of C
+
+-Setting up development environment (GCC, IDE)
+
+-Structure of a C program
+
+-Compilation process
+
+-Hello World program
+
 
 Practice:
 
-Install GCC compiler
-Write 5 different "Hello World" variations
-Understand compilation errors
+-Install GCC compiler
+
+-Write 5 different "Hello World" variations
+
+-Understand compilation errors
 
 Mini Project:
 Create a simple calculator that adds two numbers
 
+
 Chapter 2: Basic Syntax and Data Types (Week 1)
+
 Topics to Cover:
 
-Keywords and identifiers
-Variables and constants
-Data types (int, float, char, double)
-Format specifiers
-Input/output functions (printf, scanf)
-Escape sequences
+-Keywords and identifiers
+
+-Variables and constants
+
+-Data types (int, float, char, double)
+
+-Format specifiers
+
+-Input/output functions (printf, scanf)
+
+-Escape sequences
+
 
 Practice:
 
-Variable declaration exercises
-Type conversion programs
-Input/output formatting
+-Variable declaration exercises
+
+-Type conversion programs
+
+-Input/output formatting
+
 
 Assignment:
-Build a program that takes user details (name, age, salary) and displays them formatted
+
+-Build a program that takes user details (name, age, salary) and displays them formatted
+
+
+
 
 Chapter 3: Operators and Expressions (Week 2)
+
 Topics to Cover:
 
-Arithmetic operators
-Relational operators
-Logical operators
-Bitwise operators
-Assignment operators
-Operator precedence and associativity
+-Arithmetic operators
+
+-Relational operators
+
+-Logical operators
+
+-Bitwise operators
+
+-Assignment operators
+
+-Operator precedence and associativity
 
 Practice:
 
