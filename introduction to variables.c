@@ -18,4 +18,6 @@ int main() {
    printf("The value of var3 is: %d\n", var3); // Print the value of 'var3'
   
     return 0; // Indicate that the program ended successfully
+
+
 }

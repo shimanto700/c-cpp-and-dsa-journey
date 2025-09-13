@@ -331,6 +331,8 @@ Memory management exercises
 Debugging memory issues
 
 Project:
+
+
 Dynamic phonebook with add/delete/search functionality
 
 🏗️ Phase 3: Data Structures
