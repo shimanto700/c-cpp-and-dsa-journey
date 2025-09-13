@@ -18,9 +18,13 @@ This repo contains:
 
 🎯 Learning Goals
 -Master C programming basics (memory management, pointers, arrays, strings).
+
 -Transition smoothly into C++ (OOP, STL, templates, advanced concepts).
+
 -Develop strong problem-solving skills using DSA.
+
 -Prepare for technical interviews with hands-on practice.
+
 -Build the habit of writing clean, modular, and optimized code.
 
 
@@ -34,19 +38,33 @@ Complete C Programming and DSA Learning Roadmap
 📚 Table of Contents
 
 Introduction
+
 Learning Methodology
+
 Phase 1: C Programming Fundamentals
+
 Phase 2: Advanced C Concepts
+
 Phase 3: Data Structures
+
 Phase 4: Algorithm Fundamentals
+
 Phase 5: Advanced Algorithms
+
 Phase 6: Problem Solving & Practice
+
 Tips and Tricks
+
 Resources
+
 Practice Platforms
+
 Progress Tracking
+
 How to Contribute
+
 License
+
 Support & Community
 
 🎯 Introduction
